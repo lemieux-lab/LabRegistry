@@ -1,0 +1,5 @@
+name = "LabRegistry"
+uuid = "6add6ccc-119a-49cf-8a6e-854ba84535b8"
+repo = "git@github.com:lemieux-lab/LabRegistry.git"
+
+[packages]
