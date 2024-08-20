@@ -3,4 +3,4 @@ uuid = "6add6ccc-119a-49cf-8a6e-854ba84535b8"
 repo = "git@github.com:lemieux-lab/LabRegistry.git"
 
 [packages]
-74c56633-ef59-41f5-810f-a329fb4c4e96 = { name = "Dabus", path = "D/Dabus" }
+
