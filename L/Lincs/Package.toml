@@ -1,0 +1,3 @@
+name = "Lincs"
+uuid = "cd36d6ef-9674-4fa0-8244-e1c5097a9680"
+repo = "git@github.com:lemieux-lab/Lincs.jl.git"
