@@ -6,3 +6,6 @@ HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
 ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+
+["0.1.5 - 0"]
+ElasticArrays = "fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4"
