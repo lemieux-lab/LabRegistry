@@ -6,3 +6,4 @@ repo = "git@github.com:lemieux-lab/LabRegistry.git"
 74c56633-ef59-41f5-810f-a329fb4c4e96 = { name = "Dabus", path = "D/Dabus" }
 cd36d6ef-9674-4fa0-8244-e1c5097a9680 = { name = "Lincs", path = "L/Lincs" }
 f951e42b-01cc-4281-9607-5c79d22473fa = { name = "LincsProject", path = "L/LincsProject" }
+464b7726-eedd-4d86-8e6e-e9f5916276c1 = { name = "NMacros", path = "N/NMacros" }
