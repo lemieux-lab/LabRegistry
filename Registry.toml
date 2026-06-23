@@ -3,8 +3,9 @@ uuid = "6add6ccc-119a-49cf-8a6e-854ba84535b8"
 repo = "git@github.com:lemieux-lab/LabRegistry.git"
 
 [packages]
-74c56633-ef59-41f5-810f-a329fb4c4e96 = { name = "Dabus", path = "D/Dabus" }
-cd36d6ef-9674-4fa0-8244-e1c5097a9680 = { name = "Lincs", path = "L/Lincs" }
-f951e42b-01cc-4281-9607-5c79d22473fa = { name = "LincsProject", path = "L/LincsProject" }
 17fae987-1f0d-4c4c-a941-d0175eef3b63 = { name = "MiniWandb", path = "M/MiniWandb" }
 464b7726-eedd-4d86-8e6e-e9f5916276c1 = { name = "NMacros", path = "N/NMacros" }
+74c56633-ef59-41f5-810f-a329fb4c4e96 = { name = "Dabus", path = "D/Dabus" }
+b1bcd636-218e-4844-b7ac-c97daa0ccc50 = { name = "NArrays", path = "N/NArrays" }
+cd36d6ef-9674-4fa0-8244-e1c5097a9680 = { name = "Lincs", path = "L/Lincs" }
+f951e42b-01cc-4281-9607-5c79d22473fa = { name = "LincsProject", path = "L/LincsProject" }
